@@ -2,13 +2,13 @@
 
 ZOOMEDIA is a social media and advertising agency serving businesses. The brand name 'ZOOMEDIA' suggests energy, speed, and a dynamic digital presence, combining 'zoom' (fast, focused, impactful) with 'media' (content, communication, visibility). The agency positions itself as a growth partner for businesses looking to boost their online presence and reach through strategic social media management and advertising campaigns.
 
-Source: https://zoomedia-5bcdb72d.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הקפיצו את המותג שלכם קדימה — ZOOMEDIA
 
-URL: https://zoomedia-5bcdb72d.zappy5.app
+URL: https://example.com
 Description: סוכנות פרסום דיגיטלי ושיווק ברשתות החברתיות שמזניקה עסקים לתודעה. ניהול אינסטגרם, קידום ממומן באינסטגרם ובפייסבוק וקמפיינים ממוקדי צמיחה. דברו איתנו עוד היום והתחילו לבלוט.
 
 הקפיצו את המותג שלכם קדימה — ZOOMEDIA
@@ -730,7 +730,7 @@ Description: סוכנות פרסום דיגיטלי ושיווק ברשתות ה
 
 ## מדיניות פרטיות
 
-URL: https://zoomedia-5bcdb72d.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -994,7 +994,7 @@ ZOOMEDIA ("החברה", "אנו", "שלנו") מחויבת להגן על פרט�
 
 ## הצהרת נגישות
 
-URL: https://zoomedia-5bcdb72d.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1267,7 +1267,7 @@ ZOOMEDIA מחויבת להנגיש את השירותים לכלל הציבור. 
 
 ## תנאי שימוש
 
-URL: https://zoomedia-5bcdb72d.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1559,7 +1559,7 @@ ZOOMEDIA מספקת Digital Marketing & Advertising דרך האתר. השירו�
 
 ## תודה שפניתם אלינו | ZOOMEDIA
 
-URL: https://zoomedia-5bcdb72d.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: ZOOMEDIA - תודה שפניתם אלינו | ZOOMEDIA
 
 תודה שפניתם אלינו | ZOOMEDIA
