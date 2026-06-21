@@ -1,0 +1,75 @@
+# ZOOMEDIA — Generative Engine Optimization Map
+
+> ZOOMEDIA is a social media and advertising agency serving businesses. The brand name 'ZOOMEDIA' suggests energy, speed, and a dynamic digital presence, combining 'zoom' (fast, focused, impactful) with 'media' (content, communication, visibility). The agency positions itself as a growth partner for businesses looking to boost their online presence and reach through strategic social media management and advertising campaigns.
+
+---
+
+## Pages
+
+### בית
+https://zoomedia-5bcdb72d.zappy5.app
+סוכנות פרסום דיגיטלי ושיווק ברשתות החברתיות שמזניקה עסקים לתודעה. ניהול אינסטגרם, קידום ממומן באינסטגרם ובפייסבוק וקמפיינים ממוקדי צמיחה. דברו איתנו עוד היום והתחילו לבלוט.
+
+### תודה שפניתם אלינו | ZOOMEDIA
+https://zoomedia-5bcdb72d.zappy5.app/thank-you
+ZOOMEDIA - תודה שפניתם אלינו | ZOOMEDIA
+
+## Legal & Policy
+
+### Privacy Policy
+https://zoomedia-5bcdb72d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zoomedia-5bcdb72d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zoomedia-5bcdb72d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://zoomedia-5bcdb72d.zappy5.app
+- Endpoint: https://zoomedia-5bcdb72d.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ZOOMEDIA
+ZOOMEDIA is a social media and advertising agency serving businesses. The brand name 'ZOOMEDIA' suggests energy, speed, and a dynamic digital presence, combining 'zoom' (fast, focused, impactful) with 'media' (content, communication, visibility). The agency positions itself as a growth partner for businesses looking to boost their online presence and reach through strategic social media management and advertising campaigns.
+
+## Target Audience
+- עסקים
+- בעלי עסקים קטנים
+- קמעונאים מקוונים
+- חברות סטארטאפ טכנולוגיות
+- ספקי שירותים מקומיים
+- סוכני נדל"ן
+- מסעדות
+- עורכי דין
+
+## Industry
+Digital Marketing & Advertising
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://zoomedia-5bcdb72d.zappy5.app/sitemap.xml
+- Robots: https://zoomedia-5bcdb72d.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zoomedia-5bcdb72d.zappy5.app/llms-full.txt
